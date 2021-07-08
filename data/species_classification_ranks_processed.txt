@@ -1,0 +1,39 @@
+Species,Common_name,Tax_ID,superkingdom,kingdom,phylum,class,order,family,genus,species,saved_name
+Arabidopsis thaliana,Arabidopsis,3702,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,,arabidopsis
+Brassica rapa,Field mustard,3711,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Brassica,,mustard
+Glycine max,Soybean,3847,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Fabales,Fabaceae,Glycine,,soybean
+Medicago truncatula,Medicago truncatula,3880,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Fabales,Fabaceae,Medicago,,medicago
+Solanum lycopersicum,Tomato,4081,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,,tomato
+Solanum tuberosum,Potato,4113,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,,potato
+Nicotiana tabacum,Tobacco,4097,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Nicotiana,,tobacco
+Malus domestica,Apple,3750,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Rosales,Rosaceae,Malus,,apple
+Vitis vinifera,Grape,29760,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Vitales,Vitaceae,Vitis,,grape
+Zea mays,Maize,4577,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,,maize
+Sorghum bicolor,Sorghum,4558,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Sorghum,,sorghum
+Brachypodium distachyon,Purple false brome plant,15368,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Brachypodium,,brome
+Oryza sativa Japonica,Rice,39947,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Oryza,,rice
+Chlamydomonas reinhardtii,Algae,3055,Eukaryota,Viridiplantae,Chlorophyta,Chlorophyceae,Chlamydomonadales,Chlamydomonadaceae,Chlamydomonas,,chlam
+Saccharomyces cerevisiae,Yeast,1294385,Eukaryota,Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Saccharomyces,,yeast
+Caenorhabditis elegans,Roundworm,6239,Eukaryota,Metazoa,Nematoda,Chromadorea,Rhabditida,Rhabditidae,Caenorhabditis,,roundworm
+Bombyx mori,Silkworm,7091,Eukaryota,Metazoa,Arthropoda,Insecta,Lepidoptera,Bombycidae,Bombyx,,bombyx
+Aedes aegypti,Yellow fever mosquito,7159,Eukaryota,Metazoa,Arthropoda,Insecta,Diptera,Culicidae,Aedes,,mosquito
+Drosophila melanogaster,Fruitfly,7227,Eukaryota,Metazoa,Arthropoda,Insecta,Diptera,Drosophilidae,Drosophila,,fruitfly
+Apis mellifera,European honey bee,7460,Eukaryota,Metazoa,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,,bee
+Danio rerio,Zebrafish,7955,Eukaryota,Metazoa,Chordata,Actinopteri,Cypriniformes,Danionidae,Danio,,zebrafish
+Salmo salar,Atlantic salmon,8030,Eukaryota,Metazoa,Chordata,Actinopteri,Salmoniformes,Salmonidae,Salmo,,atlanticsalmon
+Oncorhynchus mykiss,Rainbow trout,8022,Eukaryota,Metazoa,Chordata,Actinopteri,Salmoniformes,Salmonidae,Oncorhynchus,,rainbowtrout
+Xenopus tropicalis,Western clawed frog,8364,Eukaryota,Metazoa,Chordata,Amphibia,Anura,Pipidae,Xenopus,,wfrog
+Gallus gallus,Chicken,9031,Eukaryota,Metazoa,Chordata,Aves,Galliformes,Phasianidae,Gallus,,chicken
+Canis lupus familiaris,Dog,9615,Eukaryota,Metazoa,Chordata,Mammalia,Carnivora,Canidae,Canis,Canis lupus,dog
+Equus caballus,Horse,9796,Eukaryota,Metazoa,Chordata,Mammalia,Perissodactyla,Equidae,Equus,,horse
+Sus scrofa,Boar,9823,Eukaryota,Metazoa,Chordata,Mammalia,Artiodactyla,Suidae,Sus,,boar
+Bos taurus,Cow,9913,Eukaryota,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Bos,,cow
+Capra hircus,Goat,9925,Eukaryota,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Capra,,goat
+Ovis aries,Sheep,9940,Eukaryota,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis,,sheep
+Oryctolagus cuniculus,European rabbit,9986,Eukaryota,Metazoa,Chordata,Mammalia,Lagomorpha,Leporidae,Oryctolagus,,rabbit
+Mus musculus,Mouse,10090,Eukaryota,Metazoa,Chordata,Mammalia,Rodentia,Muridae,Mus,,mouse
+Rattus norvegicus,Rat,10116,Eukaryota,Metazoa,Chordata,Mammalia,Rodentia,Muridae,Rattus,,rat
+Homo sapiens,Human,9606,Eukaryota,Metazoa,Chordata,Mammalia,Primates,Hominidae,Homo,,human
+Pan troglodytes,Chimpanzee,9598,Eukaryota,Metazoa,Chordata,Mammalia,Primates,Hominidae,Pan,,chimp
+Macaca mulatta,Rhesus macaque,9544,Eukaryota,Metazoa,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,,rhesusm
+Macaca fascicularis,Crab-eating macaque,9541,Eukaryota,Metazoa,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,,crabm
